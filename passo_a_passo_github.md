@@ -16,9 +16,3 @@ git init
 ## EXTRA: configurar o git
 - git config --global user.name "Bruno-Costa-fig"
 - git config --global user.email "aquiseuemail@email.com"
-
-## codigo gerado pelo github
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Bruno-Costa-fig/soma-html.git
-git push -u origin main
